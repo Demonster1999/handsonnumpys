@@ -9,8 +9,8 @@
 ## how to use the notebook  
 
 * visit the  notebook <a href = "https://colab.research.google.com/drive/1TVw5CNk-_4Y16ZJUjEcfGbS2ZkSXCESb"> at this link</a>
-* create a copy for yorself 
+* create a copy for yourself 
 * open the sections one by one 
-* start leaning
+* start learning
 
 ## Thanks in advance .. 
